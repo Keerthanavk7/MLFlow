@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/656096160848358519/7e8a68f9e2764d9c9c971f9f6c27e173/artifacts
+end_time: 1677565698420
+entry_point_name: ''
+experiment_id: '656096160848358519'
+lifecycle_stage: active
+run_id: 7e8a68f9e2764d9c9c971f9f6c27e173
+run_name: victorious-shad-674
+run_uuid: 7e8a68f9e2764d9c9c971f9f6c27e173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677565693041
+status: 3
+tags: []
+user_id: keerthana

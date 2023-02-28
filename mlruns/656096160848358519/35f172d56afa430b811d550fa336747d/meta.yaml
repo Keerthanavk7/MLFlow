@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/656096160848358519/35f172d56afa430b811d550fa336747d/artifacts
+end_time: 1677587157647
+entry_point_name: ''
+experiment_id: '656096160848358519'
+lifecycle_stage: active
+run_id: 35f172d56afa430b811d550fa336747d
+run_name: fun-frog-581
+run_uuid: 35f172d56afa430b811d550fa336747d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677587144690
+status: 3
+tags: []
+user_id: keerthana

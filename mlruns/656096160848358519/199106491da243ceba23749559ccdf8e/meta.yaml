@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/656096160848358519/199106491da243ceba23749559ccdf8e/artifacts
+end_time: 1677565706230
+entry_point_name: ''
+experiment_id: '656096160848358519'
+lifecycle_stage: active
+run_id: 199106491da243ceba23749559ccdf8e
+run_name: classy-ape-488
+run_uuid: 199106491da243ceba23749559ccdf8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677565702055
+status: 3
+tags: []
+user_id: keerthana

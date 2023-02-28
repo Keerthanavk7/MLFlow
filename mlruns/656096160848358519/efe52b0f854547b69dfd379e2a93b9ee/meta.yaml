@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/656096160848358519/efe52b0f854547b69dfd379e2a93b9ee/artifacts
+end_time: 1677587144541
+entry_point_name: ''
+experiment_id: '656096160848358519'
+lifecycle_stage: active
+run_id: efe52b0f854547b69dfd379e2a93b9ee
+run_name: popular-jay-158
+run_uuid: efe52b0f854547b69dfd379e2a93b9ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677587132627
+status: 3
+tags: []
+user_id: keerthana

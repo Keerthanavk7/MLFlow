@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/656096160848358519/792a53acb37944d1aa73d6efc7664725/artifacts
+end_time: 1677587091164
+entry_point_name: ''
+experiment_id: '656096160848358519'
+lifecycle_stage: active
+run_id: 792a53acb37944d1aa73d6efc7664725
+run_name: intelligent-skink-74
+run_uuid: 792a53acb37944d1aa73d6efc7664725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677587072943
+status: 3
+tags: []
+user_id: keerthana

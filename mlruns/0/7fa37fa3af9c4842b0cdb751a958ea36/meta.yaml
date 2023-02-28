@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/7fa37fa3af9c4842b0cdb751a958ea36/artifacts
+end_time: 1677572839147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fa37fa3af9c4842b0cdb751a958ea36
+run_name: ''
+run_uuid: 7fa37fa3af9c4842b0cdb751a958ea36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677572832374
+status: 3
+tags: []
+user_id: keerthana

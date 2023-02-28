@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/656096160848358519/5341f69ddb69475cb4148ed1d8acefbe/artifacts
+end_time: 1677587104568
+entry_point_name: ''
+experiment_id: '656096160848358519'
+lifecycle_stage: active
+run_id: 5341f69ddb69475cb4148ed1d8acefbe
+run_name: popular-dog-741
+run_uuid: 5341f69ddb69475cb4148ed1d8acefbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677587091310
+status: 3
+tags: []
+user_id: keerthana
